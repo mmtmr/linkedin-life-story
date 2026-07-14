@@ -1,0 +1,23 @@
+[
+  {"query": "https://www.linkedin.com/in/reidhoffman/ — who is this guy? give me his life story", "should_trigger": true},
+  {"query": "got a call with this guy thursday and i know nothing about him. can you dig up whatever you can? https://www.linkedin.com/in/gergelyorosz/", "should_trigger": true},
+  {"query": "https://www.linkedin.com/in/marcus-veldt-1a4b77/", "should_trigger": true},
+  {"query": "before i put money in i want the full background on this founder — track record, what they've actually shipped, and anything that went badly. linkedin.com/in/priya-raghunathan-8823", "should_trigger": true},
+  {"query": "we've got her on the podcast next week. i need her origin story, what she's said publicly before, and where the good questions are. profile: linkedin.com/in/nadia-okonjo-77b21", "should_trigger": true},
+  {"query": "who actually is Ravi Menon? i keep seeing his name in singapore AI policy circles and i don't understand how he got there", "should_trigger": true},
+  {"query": "can you put together a dossier on our incoming board member, Aisyah Rahman — she's ex-Grab, ex-Sea, based in KL. board meeting is monday", "should_trigger": true},
+  {"query": "whats this persons whole career arc, like how did they go from goldman to running a bakery lol https://linkedin.com/in/sarah-chen-4b2a91", "should_trigger": true},
+  {"query": "i need to understand who i'm negotiating against tomorrow. james okonkwo, partner at a lagos law firm — what's his background, what's he known for", "should_trigger": true},
+  {"query": "give me everything public on this person, cited, i don't want vibes i want sources. https://www.linkedin.com/in/marcus-veldt-1a4b77/", "should_trigger": true},
+
+  {"query": "can you help me rewrite my own linkedin headline? it currently just says 'Product Manager @ Stripe' and it's putting me to sleep", "should_trigger": false},
+  {"query": "optimize my linkedin about section so recruiters actually stop on it. here's what i have now, it's three paragraphs of corporate mush", "should_trigger": false},
+  {"query": "find me 20 publishers in the UAE who look like they have a video capacity gap and might buy outsourced production", "should_trigger": false},
+  {"query": "research Anthropic as a company for me — funding history, headcount, main competitors, how they actually make money", "should_trigger": false},
+  {"query": "scrape linkedin and get me every VP of Engineering at a fintech in singapore with their emails", "should_trigger": false},
+  {"query": "whats the best way to cold outreach someone on linkedin? draft me a message that doesn't sound like every other message they get", "should_trigger": false},
+  {"query": "here's a resume pdf in my downloads (Nadia_Haq_CV_2026.pdf) — summarise it and tell me if she's a fit for the senior backend role", "should_trigger": false},
+  {"query": "give me a history of the open-source Linux kernel community — how it started, how governance evolved, who holds power now", "should_trigger": false},
+  {"query": "who was Tunku Abdul Rahman?", "should_trigger": false},
+  {"query": "how do i export all my linkedin connections to a csv, and can you then dedupe them against my hubspot contacts", "should_trigger": false}
+]
